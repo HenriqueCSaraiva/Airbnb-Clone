@@ -1,70 +1,70 @@
-# Getting Started with Create React App
+# Airbnb Clone
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+https://user-images.githubusercontent.com/86918112/136668114-f950abd9-8b70-4fe6-a0e4-34974f15635e.mp4
 
-## Available Scripts
+<div align="center" style="margin: 20px; text-align: center">
 
-In the project directory, you can run:
+  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+  ![GitHub last commit](https://img.shields.io/github/last-commit/HenriqueCSaraiva/Airbnb-Clone?color=green&style=flat-square)
+  ![GitHub top language](https://img.shields.io/github/languages/top/HenriqueCSaraiva/Airbnb-Clone?style=flat-square)
 
-### `npm start`
+</div>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+##
 
-### `npm test`
+<p align="center">
+  <a href="#project-star2">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#techs-rocket">Techs</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#installation-wrench">Installation</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#start-on">Start</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#license-memo">License</a>
+</p>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+##
 
-### `npm run build`
+![Img 2](https://user-images.githubusercontent.com/86918112/136668198-cb1bbf75-e84d-4ef1-8dce-0835f6117a50.png)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<br>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Project :star2:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+This repo contains an Airbnb Clone using ReactJS, ReactHooks, ReactRouter and Material UI.
 
-### `npm run eject`
+<br>
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+![img3](https://user-images.githubusercontent.com/86918112/136668257-fa511abb-32cf-4b51-ad6c-10f7504508ac.png)
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<br>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## Techs :rocket:
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+- [x] [ReactJS](https://reactjs.org);
+- [x] [ReactHooks](https://reactjs.org/docs/hooks-custom.html#gatsby-focus-wrapper).
+- [x] [ReactRouter](https://reactrouter.com/web/guides/quick-start).
+- [x] [MaterialUI](https://mui.com/getting-started/usage/);
 
-## Learn More
+<br>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Installation :wrench:
 
-### Code Splitting
+First you need to clone the project using `git clone https://github.com/HenriqueCSaraiva/Airbnb-Clone`.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+You can install the application using `npm install` or `yarn install` on the root dir.
 
-### Analyzing the Bundle Size
+<br>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## Start :on:
 
-### Making a Progressive Web App
+To start the application interface just run `npm start` or `yarn start` on the root dir.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+<br>
 
-### Advanced Configuration
+## License :memo:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
-### Deployment
+- **[MIT license](https://github.com/HenriqueCSaraiva/SaraivaGeek/blob/master/LICENSE)**;
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
