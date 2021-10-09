@@ -1,0 +1,15 @@
+.home{
+    width: 100%;
+}
+
+.home__section{
+    display: flex;
+    padding: 30px;
+}
+
+@media (max-width: 980px){
+    .home__section{
+        display: flex;
+        flex-direction: column;
+    }
+}
